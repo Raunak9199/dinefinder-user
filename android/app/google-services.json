@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602563524299",
+    "project_id": "dinefinder-927c2",
+    "storage_bucket": "dinefinder-927c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602563524299:android:732b0ccf13f55a0d200d4e",
+        "android_client_info": {
+          "package_name": "com.example.dinefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOd6MUqIXY-p55esivzLYetYqNWiu2NQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602563524299:android:996ac8ebaba59aee200d4e",
+        "android_client_info": {
+          "package_name": "com.example.dinefinder_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOd6MUqIXY-p55esivzLYetYqNWiu2NQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

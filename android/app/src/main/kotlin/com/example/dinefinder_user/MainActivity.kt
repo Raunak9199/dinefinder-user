@@ -1,0 +1,6 @@
+package com.example.dinefinder_user
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
